@@ -1,0 +1,39 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "email": "johndoe@gmail.com",
+            "cohort": 9
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "React is fun",
+            "body": "Good luck nerd",
+            "date": "05/30/24",
+            "topicId": 1
+        }
+    ],
+    "topics": [
+        {
+            "id": 1,
+            "name":"React"
+        }
+    ],
+    "userPosts": [
+        {
+            "id": 1,
+            "postId": 1,
+            "userId": 1
+        }
+    ],
+    "userLikes": [
+        {
+            "id": 1,
+            "postId": 1,
+            "userId": 1
+        }
+    ]
+}
