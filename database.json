@@ -14,12 +14,23 @@
             "body": "Good luck nerd",
             "date": "05/30/24",
             "topicId": 1
+        },
+        {
+            "id": 2,
+            "title": "JavaScript ",
+            "body": "You're fired",
+            "date": "05/30/24",
+            "topicId": 2
         }
     ],
     "topics": [
         {
             "id": 1,
             "name":"React"
+        },
+        {
+            "id": 2,
+            "name":"JavaScript"
         }
     ],
     "userPosts": [
@@ -27,12 +38,22 @@
             "id": 1,
             "postId": 1,
             "userId": 1
+        },
+        {
+            "id": 2,
+            "postId": 2,
+            "userId": 1
         }
     ],
     "userLikes": [
         {
             "id": 1,
             "postId": 1,
+            "userId": 1
+        },
+        {
+            "id": 2,
+            "postId": 2,
             "userId": 1
         }
     ]
